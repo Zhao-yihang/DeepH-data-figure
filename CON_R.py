@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # 读取Excel文件
-file_path = 'test3.xlsx'  # 请替换为你的文件路径
+file_path = 'CON_3.xlsx'  #  请替换为文件路径:CON_1,CON_2,CON_3
 df = pd.read_excel(file_path)
 
 # 提取后两列数据
