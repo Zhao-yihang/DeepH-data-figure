@@ -22,5 +22,5 @@ http://deeph-pack.deepmodeling.com/en/latest/
 or
 https://github.com/mzjb/DeepH-pack
 
-References:
-H. Li, Z. Wang, N. Zou, M. Ye, R. Xu, X. Gong, W. Duan, Y. Xu. Deep-learning density functional theory Hamiltonian for efficient ab initio electronic-structure calculation. Nat. Comput. Sci. 2, 367–377 (2022).
+>References:
+>H. Li, Z. Wang, N. Zou, M. Ye, R. Xu, X. Gong, W. Duan, Y. Xu. Deep-learning density functional theory Hamiltonian for efficient ab initio electronic-structure calculation. Nat. Comput. Sci. 2, 367–377 (2022).
